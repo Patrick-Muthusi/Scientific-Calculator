@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Scientific Calculator Project</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="clear">C</string>
+    <string name="exponent">^</string>
+    <string name="parenthesis">()</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="subtruct">-</string>
+    <string name="plusminus">+-</string>
+    <string name="point">.</string>
+    <string name="equals">=</string>
+
+    <string name="display"> </string>
+    <string name="backspace"> </string>
+
+    <string name="exit"> Exit</string>
+    <string name="othercalc"> Simple Calc</string>
+    <string name="scientific">Scientific Calc </string>
+    <string name="history">History</string>
+    <string name="about">About</string>
+
+    <string name="trigSinText">sin</string>
+    <string name="trigCosText">cos</string>
+    <string name="trigTanText">tan</string>
+    <string name="trigArcSinText">sin<sup><small>-1</small></sup></string>
+    <string name="trigArcCosText">cos<sup><small>-1</small></sup></string>
+    <string name="trigArcTanText">tan<sup><small>-1</small></sup></string>
+    <string name="naturalLogText">ln</string>
+    <string name="LogText">log</string>
+    <string name="squareRootText">√</string>
+    <string name="absoluteValueText">|x|</string>
+    <string name="piText">π</string>
+    <string name="eText">e</string>
+    <string name="xSquaredText">x<sup><small>2</small></sup></string>
+    <string name="xPowerYText">x<sup><small>y</small></sup></string>
+    <string name="isPrimeFunctionText">prime</string>
+
+    <string name="inputHint">Input to calculate</string>
+
+    <string name="clearText">C</string>
+    <string name="openParantesis">(</string>
+    <string name="closeParenticies">)</string>
+    <string name="divideText">÷</string>
+    <string name="multiplyText">×</string>
+    <string name="addText">+</string>
+    <string name="subtractText">-</string>
+    <string name="decimalText">.</string>
+    <string name="equalText">=</string>
+
+    <string name="string_inputhint"> </string>
+</resources>
